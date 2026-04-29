@@ -10,7 +10,7 @@ The application provides a dedicated control layout for each device type:
 
 | Samsung Smart TV | Daikin AC (Climate) | JBL Speaker |
 |:---:|:---:|:---:|
-| ![TV UI](images/tv_ui.png) | ![AC UI](images/ac_ui.png) | ![Speaker UI](images/speaker_ui.png) |
+| ![TV UI](tv_ui.png) | ![AC UI](ac_ui.png) | ![Speaker UI](speaker_ui.png) |
 
 ## 🛠 How to Run
 You can launch the application using the following commands in your terminal:
